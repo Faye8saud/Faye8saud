@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fay saud</h1>
-<h3 align="center">A passionate frontend developer from Saudi Arabia</h3>
+<h3 align="center">A passionate software engineer from Saudi Arabia</h3>
 
-- 🌱 I’m currently learning **TypeScript,tailwind ,rest Apis**
+- 🌱 I’m currently learning **QA testing with python, ios development**
 
 - 📫 How to reach me **fayii8866@gmail.com**
 
